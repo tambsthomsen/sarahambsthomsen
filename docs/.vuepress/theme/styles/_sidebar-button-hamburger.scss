@@ -1,0 +1,52 @@
+.layout-sidebar-button-hamburger {
+  cursor: pointer;
+  z-index: 19;
+  transition: all 0.1s linear;
+  width: 30px;
+  margin-right:-15px;
+
+  .menu-icon {
+    cursor: pointer;
+    svg {
+      fill: #fff;
+    }
+
+    &__top {
+      transition: transform 350ms ease-in-out, opacity 350ms ease-in;
+      
+    }
+
+    &__bottom {
+      transition: transform 350ms ease-in-out, opacity 350ms ease-in;
+
+    }
+  }
+}
+
+.sidebar-open,
+.sidebar-open--force {
+  .layout-sidebar-button-hamburger {
+    .menu-icon {
+
+      &__top {
+        transform: rotateZ(45deg) translateY(4px) translateX(12px);
+        transition: transform 350ms ease-in-out, opacity 200ms ease-in;
+  
+        &--second {
+          transform: rotateZ(45deg) translateY(-10px);
+          opacity: 0;
+        }
+      }
+  
+      &__bottom {
+        transform: rotateZ(-45deg) translateY(4px) translateX(-32px);
+        transition: transform 350ms ease-in-out, opacity 200ms ease-in;
+  
+        &--second {
+          transform: rotateZ(-45deg) translateY(-10px);
+          opacity: 0;
+        }
+      }
+    }
+  }
+}
