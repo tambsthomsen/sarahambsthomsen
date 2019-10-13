@@ -11,10 +11,10 @@ module.exports = {
       { text: "Personsamtaler", link: "/om/personsamtaler" },
       { text: "Om Sarah", link: "/om/sarah" },
     ],
-    repo: "vladpazych/sandboxtagpage",
+    repo: "tambsthomsen/sarahambsthomsen",
     editLinks: "tree",
     docsBranch: "source/docs",
-    docsRepo: "vladpazych/sandboxtagpage"
+    docsRepo: "tambsthomsen/sarahambsthomsen"
   },
   head: [
     [
