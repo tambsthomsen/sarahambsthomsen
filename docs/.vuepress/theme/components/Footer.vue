@@ -5,7 +5,7 @@
         <b-col cols="12" sm="6" xl="4" class="outbound-negative-space-fix">
           <div>
             <span class="footer__headline">Telefon</span>
-            <br />60 25 30 22
+            <br />28 68 86 24
             <br />
             <br />
             <span class="footer__headline">E-mail</span>
