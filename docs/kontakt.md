@@ -11,7 +11,7 @@ lang: en-US
 <div class="col">
 <b>Telefon</b>
 <br>
-60 25 30 22
+28 68 86 24
 
 </div>
 <div class="col">
@@ -26,13 +26,13 @@ lang: en-US
 <br>
 <div class="row">
 <div class="col">
-<b>Adresse</b><br>
+<b>Konsultation i Charlottenlund</b><br>
 Jægersborg Allé 16<br>
 2920 Charlottenlund<br>
 Tæt på Charlottenlund stationGratis parkering
 </div>
 <div class="col">
-<b>Adresse</b><br>
+<b>Konsultation i Hillerød</b><br>
 PsykologHus Hillerød<br>
 Helsingørsgade 16 A<br>
 3400 Hillerød<br>
