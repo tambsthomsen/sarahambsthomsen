@@ -1,9 +1,9 @@
 ---
-title: Foredrag Og Kurser
+title: Foredrag og Kurser
 lang: en-US
 ---
 
-# Forerag og Kurser
+# Foredrag og kurser
 
 Jeg er en passioneret foredragsholder og underviser med 13 års erfaring i både offentligt og privat regi. Formålet med at afholde et foredrag eller kursus vil ofte være at skabe fælles indsigt og viden om et emne, som er vigtigt for personalet, trioen, ledelsen eller organisationen som helhed. Til tider er fokus også at rykke på kulturen og adfærden på arbejdspladsen.
 
