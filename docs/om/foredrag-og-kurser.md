@@ -1,5 +1,5 @@
 ---
-title: Foredrag og Kurser
+title: Foredrag og kurser
 lang: en-US
 ---
 
