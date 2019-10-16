@@ -1,5 +1,5 @@
 ---
-title: Om Sarah
+title: Om mig
 lang: en-US
 ---
 
@@ -16,35 +16,37 @@ lang: en-US
 
 ###### Specialeområder
 
-- Lederudvikling
-- Coaching og supervision
-- Mobning og krænkende  handlinger
-- Digital chikane
-- Forandringer
+- Lederudvikling og lederteamudvikling
+- Coaching, sparring og supervision
+- Krænkende handlinger og mobning
+- Seksuel- og digital chikane
+- Organisations- og kulturændringer
 - Stress og kriser
-- Kommunikation
-- Teamudvikling
+- Kommunikation og teamudvikling
+- Persontypeforståelse
+
+
 
 </div>
 <div class="col-12 col-md-6 mt-md-5">
 
-###### Lederudvikling
-- Lederudvikling
-- Coaching og supervision
-- Mobning og krænkende    handlinger
-- Digital chikane
-- Forandringer
-- Stress og kriser
-- Kommunikation
-- Teamudvikling
+###### Faglig baggrund
+- Psykolog (Cand.psych) ved Københavns Universitet
+- Autoriseret (Cand.psych. aut) ved Dansk Psykolognævn
+- Tidligere chefkonsulent i erhvervspsykologisk regi
+- Tidligere ekstern lektor og censor ved Syddansk Universitet
+- Tidligere teamleder for krisepsykologisk team
+
 
 </div>
 </div>
 
 ## Introduktion
-Jeg er uddannet psykolog fra Københavns Universitet, med speciale i arbejds-og organisationspsykologi. Jeg er autoriseret af Psykolognævnet (cand.psych. aut) og er medlem af Dansk Psykologforening (DP) og modtager løbende supervision. De sidste 12 år har jeg arbejdet i det erhvervspsykologiske felt med foredrag, undervisning, procesforløb, supervision og coaching mv. Jeg brænder for at optimere trivslen på arbejdspladsen, både med blik for individet, teamet, ledelsen og organisationen.
+Jeg er uddannet psykolog fra Københavns Universitet, med en overbygning i arbejds- og organisationspsykologi samt klinisk psykologi. Herefter autoriseret af Psykolognævnet (cand.psych. aut). Derudover er jeg medlem af Dansk Psykologforening (DP) og modtager løbende supervision.
 
-Nogle af mine specialeområder er ledelse, stress, digital chikane, krænkende handlinger, mobning, forandringer, kriser, persontyper, kommunikation osv. Jeg er en passioneret formidler, som elsker at gøre brug af interaktive læringsredskaber, cases, øvelser og dialog.
+De sidste 13 år har jeg arbejdet i det erhvervspsykologiske felt med foredrag, undervisning, procesforløb, supervision og coaching mv.
+
+Jeg brænder for at være med til at skabe trygge, motiverende og effektive arbejdspladser, igennem interventioner rettet både mod individet, teamet, ledelsen og organisationen som helhed.
 
 Udover det erhvervspsykologiske felt, har jeg erfaring med individuelle samtaleforløb, herunder terapi, som tilbydes i rolige lokaler i henholdsvis Charlottenlund og Hillerød, tæt på offentlig transport og nem parkering.
 
@@ -54,10 +56,12 @@ Min tilgang til både det erhvervspsykologiske- og kliniske felt tager primært 
 Jeg er certificeret i følgende psykometriske værktøjer, som anvendes ved behov/efterspørgsel:
 - LEA 360™ (Leadership Effectiveness Analysis – Management Research Group)
 - NEO-PI-3® (Velfunderet personlighedstest – klinisk og organisatorisk version)
-- KP Personprofil® (Personlig udvikling, rekruttering, gruppeprofiler)
-- KP Explorer® (Personlig udvikling, rekruttering, gruppeprofiler)
-- KP Personlig Handlekraft® (Ledelses værktøj med fokus på handlekraft)
 - MBTI 2® (Typeindikator – personlige præferencer, gruppeprofiler)
 - MBTI 1® (Typeindikator – personlige præferencer, gruppeprofiler)
 - TKI® (Konflikthåndteringsredskab)
 - Stressindikator®
+- KP Personprofil (Personlig udvikling, rekruttering, gruppeprofiler)
+- KP Explorer (Personlig udvikling, rekruttering, gruppeprofiler)
+- KP Personlig Handlekraft (Ledelses værktøj med fokus på handlekraft)
+
+[Kontakt](/kontakt.html) mig for nærmere information.
