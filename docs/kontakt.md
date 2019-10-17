@@ -26,19 +26,20 @@ lang: en-US
 <br>
 <div class="row">
 <div class="col">
-<b>Konsultation i Charlottenlund</b><br>
-Jægersborg Allé 16<br>
-2920 Charlottenlund<br>
+<b>Konsultation i Charlottenlund</b>
+<br>Jægersborg Allé 16
+<br>2920 Charlottenlund
+<br>
 <br>Tæt på Charlottenlund station
 <br>Gratis parkering
 </div>
 <div class="col">
-<b>Konsultation i Hillerød</b><br>
-PsykologHus Hillerød<br>
-Helsingørsgade 16 A<br>
-3400 Hillerød<br>
+<b>Konsultation i Hillerød</b>
+<br>PsykologHus Hillerød
+<br>Helsingørsgade 16 A
+<br>3400 Hillerød
 <br>
-Tæt på Hillerød station<br>
-Tæt på p-hus
+<br>Tæt på Hillerød station<br>
+<br>Tæt på p-hus
 </div>
 </div>

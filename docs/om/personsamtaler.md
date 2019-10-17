@@ -54,7 +54,7 @@ Alle typer af samtaleforløb tilbydes i behagelige omgivelser i Charlottenlund o
 
 <b-tab title="Ledersparring"><p>Mange ledere oplever et behov for sparring til de ledelsesmæssige udfordringer og dilemmaer de står med i dagligdagen. Det kan fx være konflikter i teamet, en organisationsændring der skal håndteres, en vanskelig samtale eller det organisatoriske krydspres der ønskes sparring på. Der kan være behov for et fokuseret og fortroligt rum, til at vende og dreje de paradokser og dilemmaer man møder som leder. 
 
-Ledersparring kan have mange forskellige former, det vigtigste er at formen matcher dine behov og er effektiv ind i din hverdag
+Ledersparring kan have mange forskellige former, det vigtigste er at formen matcher dine behov og er effektiv ind i din hverdag.
 
 Alle typer af samtaleforløb tilbydes i behagelige omgivelser i Charlottenlund og Hillerød, på egen lokation (fx. arbejdspladsen), eller ved behov som videokonsultationer. Sidstnævnte anbefales dog ikke i alle situationer.
 
