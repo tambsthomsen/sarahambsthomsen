@@ -333,7 +333,7 @@
     justify-content: center;
 
     .hero__headline {
-      padding-top: 4em;
+      padding-top: 2em;
       color: #fff;
       font-size: 1.3em;
 
@@ -349,12 +349,12 @@
     }
 
     .hero__headline-main {
-      font-family: "salomeregular";
+      font-family: "salomeregular"; line-height: 1.4;
       display: block;
     }
 
     .hero__headline-secondary {
-      font-weight: 300;
+      font-weight: 300;font-size: 0.5em;
     }
 
     .brand-button {

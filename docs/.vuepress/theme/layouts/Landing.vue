@@ -6,8 +6,10 @@
           <b-container class="lcontainer lcontainer--hero">
             <div class="hero__headline">
               <h2>
-                <span class="hero__headline-main">Erhvervspsykologisk rådgivning · Personsamtaler · Foredrag</span>
-                <span class="hero__headline-secondary">ved Sarah Ambs-Thomsen, autoriseret erhvervspsykolog</span>.
+                <span class="hero__headline-main">Foredrag
+                  <br>Personsamtaler
+                  <br>Erhvervspsykologisk rådgivning</span>
+                <span class="hero__headline-secondary">ved Sarah Ambs-Thomsen, autoriseret erhvervspsykolog</span>
               </h2>
             </div>
           </b-container>
