@@ -29,13 +29,15 @@ lang: en-US
 <b>Konsultation i Charlottenlund</b><br>
 Jægersborg Allé 16<br>
 2920 Charlottenlund<br>
-Tæt på Charlottenlund stationGratis parkering
+<br>Tæt på Charlottenlund station
+<br>Gratis parkering
 </div>
 <div class="col">
 <b>Konsultation i Hillerød</b><br>
 PsykologHus Hillerød<br>
 Helsingørsgade 16 A<br>
 3400 Hillerød<br>
+<br>
 Tæt på Hillerød station<br>
 Tæt på p-hus
 </div>

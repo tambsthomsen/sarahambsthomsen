@@ -29,4 +29,4 @@ Fokus kan være på individet, gruppen, ledelsen og organisationen som helhed. D
 - Supplerende arbejdsmiljøuddannelse
 - Mv.
 
-[Kontakt](/kontakt.html) mig for konkrete forespørgsler
+[Kontakt](/kontakt.html) mig for konkrete forespørgsler.

@@ -6,8 +6,8 @@ module.exports = {
     activeHeaderLinks: true,
     nav: [
       { text: "Forside", link: "/" },
-      { text: "Erhvervspsykolog", link: "/om/erhvervspsykolog" },
-      { text: "Fredrag Og Kurser", link: "/om/fredrag-og-kurser" },
+      { text: "Erhvervspsykologi", link: "/om/erhvervspsykologi" },
+      { text: "Foredrag og kurser", link: "/om/foredrag-og-kurser" },
       { text: "Personsamtaler", link: "/om/personsamtaler" },
       { text: "Om Sarah", link: "/om/sarah" },
     ],

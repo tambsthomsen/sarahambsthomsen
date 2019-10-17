@@ -28,11 +28,11 @@ body {
     z-index: -1;
 
     @include media-breakpoint-down(lg) {
-      opacity: 0.6;
+      opacity: 0.9;
     }
 
     @include media-breakpoint-down(md) {
-      opacity: 0.3;
+      opacity: 0.7;
       width: 80%;
     }
   }

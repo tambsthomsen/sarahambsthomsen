@@ -43,14 +43,11 @@ Alle typer af samtaleforløb tilbydes i behagelige omgivelser i Charlottenlund o
 [Kontakt](/kontakt.html) mig for nærmere information.
 </p></b-tab>
 
-<b-tab title="Supervision"><p>SSupervision på arbejdspladsen styrker refleksionsevnen, handlekraften, det faglige samvær og den fælles faglige identitet. Samtidig oplever mange arbejdspladser at supervisionen kan være med til at forebygge konflikter og stress i medarbejdergruppen – da der her gives rum og mulighed for løbende at få vendt og bearbejdet de situationer og dilemmaer der løbende opstår på en arbejdsplads. 
+<b-tab title="Supervision"><p>Supervision på arbejdspladsen styrker refleksionsevnen, handlekraften, det faglige samvær og den fælles faglige identitet. Samtidig oplever mange arbejdspladser at supervisionen kan være med til at forebygge konflikter og stress i medarbejdergruppen – da der her gives rum og mulighed for løbende at få vendt og bearbejdet de situationer og dilemmaer der løbende opstår på en arbejdsplads. 
 
-Supervisionen kan foregå enten som individuel supervision, ledersupervision eller som
-gruppesupervision.
+Supervisionen kan foregå enten som individuel supervision, ledersupervision eller som gruppesupervision.
 
-Alle typer af samtaleforløb tilbydes i behagelige omgivelser i Charlottenlund og Hillerød, på
-egen lokation (fx. arbejdspladsen), eller ved behov som videokonsultationer. Sidstnævnte
-anbefales dog ikke i alle situationer.
+Alle typer af samtaleforløb tilbydes i behagelige omgivelser i Charlottenlund og Hillerød, på egen lokation (fx. arbejdspladsen), eller ved behov som videokonsultationer. Sidstnævnte anbefales dog ikke i alle situationer.
 
 [Kontakt](/kontakt.html) mig for nærmere information.
 </p></b-tab>

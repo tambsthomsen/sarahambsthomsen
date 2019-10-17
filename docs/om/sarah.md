@@ -52,7 +52,7 @@ Udover det erhvervspsykologiske felt, har jeg erfaring med individuelle samtalef
 
 Min tilgang til både det erhvervspsykologiske- og kliniske felt tager primært udgangspunkt i en kognitiv-, narrativ- og systemisk forståelse, men andre tilgange anvendes også når det skønnes relevant.
 
-## Certifikationer
+## Certificeringer
 Jeg er certificeret i følgende psykometriske værktøjer, som anvendes ved behov/efterspørgsel:
 - LEA 360™ (Leadership Effectiveness Analysis – Management Research Group)
 - NEO-PI-3® (Velfunderet personlighedstest – klinisk og organisatorisk version)

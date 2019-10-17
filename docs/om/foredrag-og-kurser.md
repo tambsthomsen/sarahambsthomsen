@@ -11,4 +11,4 @@ Afhængigt af jeres fokus og behov vil formatet bære præg af inspirerende psyk
 
 Jeg afholder både foredrag, kurser, temamøder, train-the-trainer forløb, workshops, supplerende arbejdsmiljøuddannelse og procesforløb mv. 
 
-[Kontakt](/kontakt.html) mig for konkrete forespørgsler
+[Kontakt](/kontakt.html) mig for konkrete forespørgsler.

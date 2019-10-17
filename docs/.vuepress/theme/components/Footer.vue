@@ -18,17 +18,22 @@
 
         <b-col cols="12" sm="6" xl="4" class="outbound-negative-space-fix mt-8 mt-sm-0">
           <div>
-            <span class="footer__headline">AdresseJægersborg Allé 16</span>
+            <span class="footer__headline">Konsultation Charlottenlund</span>
+            <br />Jægersborg Allé 16
             <br />2920 Charlottenlund
-            <br />Tæt på Charlottenlund stationGratis parkering
+            <br />
+            <br />Tæt på Charlottenlund station
+            <br />Gratis parkering
           </div>
         </b-col>
 
         <b-col class="col-newsletter mt-8 mt-xl-0 outbound-negative-space-fix">
           <div>
-            <span class="footer__headline">Adresse PsykologHus Hillerød</span>
+            <span class="footer__headline">Konsultation Hillerød</span>
+            <br />PsykologHus Hillerød
             <br />Helsingørsgade 16 A
             <br />3400 Hillerød
+            <br />
             <br />Tæt på Hillerød station
             <br />Tæt på p-hus
           </div>
@@ -42,7 +47,7 @@
           >
             <li
               class="list-inline-item pl-0 pr-4 my-1 text-muted"
-            >© Sarah Ambs-Thomsen, 2019. Alle rettigheder forbeholdesn.</li>
+            >© Sarah Ambs-Thomsen, 2019. Alle rettigheder forbeholdt.</li>
             <li class="list-inline-item pl-0 pr-4 my-1">
               <router-link to="/meta/fortrolighedspolitik">Fortrolighedspolitik</router-link>
             </li>
