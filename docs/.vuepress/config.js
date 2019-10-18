@@ -9,7 +9,7 @@ module.exports = {
       { text: "Erhvervspsykologi", link: "/om/erhvervspsykologi" },
       { text: "Foredrag og kurser", link: "/om/foredrag-og-kurser" },
       { text: "Personsamtaler", link: "/om/personsamtaler" },
-      { text: "Om Sarah", link: "/om/sarah" },
+      { text: "Om Sarah", link: "/om/sarah" }
     ],
     repo: "tambsthomsen/sarahambsthomsen",
     editLinks: "tree",

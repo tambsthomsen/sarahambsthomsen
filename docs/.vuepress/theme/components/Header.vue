@@ -8,10 +8,10 @@
       </div> -->
 
       <div class="header__menu justify-content-end">
-        <NavLinks class="d-none d-lg-flex" />
+        <NavLinks class="d-none d-md-flex" />
         <SidebarButtonHamburger
           @toggle-sidebar="$emit('toggle-sidebar')"
-          class="d-block d-lg-none"
+          class="d-block d-md-none"
         />
       </div>
     </b-container>
