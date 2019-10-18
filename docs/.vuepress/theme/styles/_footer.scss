@@ -5,6 +5,11 @@
   box-sizing: border-box;
   font-size: 0.95em;
 
+  .sponsor {
+    opacity: .7;
+    max-width: 14rem;
+  }
+
   .footer > .container {
     padding-top: 4em;
     border-top: 2px solid $primary-lighter;

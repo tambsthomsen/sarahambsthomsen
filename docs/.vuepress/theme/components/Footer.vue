@@ -40,6 +40,12 @@
         </b-col>
       </b-row>
 
+      <b-row class="mt-9">
+        <b-col>
+          <img src="/dansk_psykolog.png" class="sponsor sponsor--dansk"/>
+        </b-col>
+      </b-row>
+
       <b-row class="mt-10 align-items-md-center">
         <b-col cols="12">
           <ul
