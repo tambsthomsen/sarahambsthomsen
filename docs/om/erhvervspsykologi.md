@@ -1,6 +1,6 @@
 ---
 title: Erhvervspsykologi
-lang: en-US
+lang: da-DK
 ---
 
 # Erhvervspsykologi

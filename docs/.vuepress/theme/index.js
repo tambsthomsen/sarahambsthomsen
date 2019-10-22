@@ -7,23 +7,7 @@ module.exports = {
     [
       "@vuepress/google-analytics",
       {
-        ga: "UA-124576760-1"
-      }
-    ],
-    [
-      "@vuepress/blog",
-      {
-        directories: [
-          {
-            id: "post",
-            dirname: "_posts",
-            path: "/blog/",
-            itemPermalink: "/blog/:year/:month/:day/:slug",
-            pagination: {
-              lengthPerPage: 6
-            }
-          }
-        ]
+        ga: "UA-150657991-1"
       }
     ],
     [
@@ -55,15 +39,6 @@ module.exports = {
       "@vuepress/register-components",
       {
         componentsDir: [path.resolve(__dirname, "components")]
-      }
-    ],
-    [
-      "@vuepress/last-updated",
-      {
-        transformer: (timestamp, lang) => {
-          moment.locale(lang);
-          return moment(timestamp).format("MMMM DD, YYYY");
-        }
       }
     ]
   ],

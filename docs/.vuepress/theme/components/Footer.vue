@@ -8,6 +8,8 @@
             <br />28 68 86 24
             <br />
             <br />
+          </div>
+          <div>
             <span class="footer__headline">E-mail</span>
             <br />
             <a href="mailto:psykolog@sarahambs.dk">psykolog@sarahambs.dk</a>

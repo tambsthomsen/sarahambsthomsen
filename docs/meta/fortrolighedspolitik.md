@@ -1,7 +1,7 @@
 ---
 title: Fortrolighedspolitik
 version: 1
-lang: en-US
+lang: da-DK
 sidebar: false
 editLink: false
 indexable: false

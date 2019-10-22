@@ -1,6 +1,6 @@
 ---
 title: Cookiepolitik
-lang: en-US
+lang: da-DK
 sidebar: false
 indexable: false
 editLink: false

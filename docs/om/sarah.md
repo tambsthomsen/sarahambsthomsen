@@ -1,6 +1,6 @@
 ---
 title: Om mig
-lang: en-US
+lang: da-DK
 ---
 
 <div class="content__cover">

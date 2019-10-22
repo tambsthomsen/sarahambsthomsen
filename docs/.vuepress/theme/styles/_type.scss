@@ -91,6 +91,12 @@ b {
     font-size: 1.8em;
     font-weight: 300;
     margin-top: -0.9em;
+    
+    @include media-breakpoint-down(md) {
+      font-size: 1.2em;
+      margin-top: 0.4rem;
+      line-height: 1.2;
+    }
   }
 
   h1,

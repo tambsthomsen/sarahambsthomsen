@@ -9,7 +9,7 @@
                 <span class="hero__headline-main">Foredrag
                   <br>Personsamtaler
                   <br>Erhvervspsykologisk rådgivning</span>
-                <span class="hero__headline-secondary">ved Sarah Ambs-Thomsen, autoriseret erhvervspsykolog</span>
+                <div class="hero__headline-secondary">ved Sarah Ambs-Thomsen, autoriseret erhvervspsykolog</div>
               </h2>
             </div>
           </b-container>

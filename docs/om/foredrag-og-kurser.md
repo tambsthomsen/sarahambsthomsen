@@ -1,6 +1,6 @@
 ---
 title: Foredrag og kurser
-lang: en-US
+lang: da-DK
 ---
 
 # Foredrag og kurser
