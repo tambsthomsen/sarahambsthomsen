@@ -5,7 +5,7 @@
         <b-col cols="12" sm="6" xl="4" class="outbound-negative-space-fix">
           <div>
             <span class="footer__headline">Telefon</span>
-            <br />28 68 86 24
+            <br /><a href="tel: 28 68 86 24">28 68 86 24</a>
             <br />
             <br />
           </div>

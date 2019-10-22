@@ -11,7 +11,7 @@ lang: en-US
 <div class="col">
 <b>Telefon</b>
 <br>
-28 68 86 24
+<a href="tel: 28 68 86 24">28 68 86 24</a>
 
 </div>
 <div class="col">
@@ -40,6 +40,6 @@ lang: en-US
 <br>3400 Hillerød
 <br>
 <br>Tæt på Hillerød station<br>
-<br>Tæt på p-hus
+Tæt på p-hus
 </div>
 </div>
