@@ -30,6 +30,7 @@
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
     "vue-scrollto": "^2.15.0",
-    "vue-typed-js": "^0.1.2"
+    "vue-typed-js": "^0.1.2",
+    "vuejs-paginate": "^2.1.0"
   }
 }
