@@ -8,6 +8,7 @@ cache:
   - "$HOME/.npm"
 script:
   - npm run docs:build
+  - echo 'sarahambs.dk' > CNAME
 deploy:
   provider: pages
   skip-cleanup: true
